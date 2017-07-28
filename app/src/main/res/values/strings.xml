@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">P10_KnowYourFacts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="read_later">READ LATER</string>
+    <string name="change_color">CHANGE COLOR</string>
+    <string name="dolphins">Dolphins sleep with one eye</string>
+    <string name="you">You can\'t kill yourself by holding your breath</string>
+    <string name="your">Your heart beats over 100,000 times a day!</string>
+    <string name="the">The worlds oldest piece of chewing gum is 9000 years old!</string>
+    <string name="thirteen_seconds">The longest recorded flight  of a chicken is 13 seconds</string>
+    <string name="slugs">Slugs have 4 noses.</string>
+    <string name="set_alarm">SET ALARM</string>
+
+    <color name="bright_pink">#FF007F</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF7F00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="chartreuse">#7FFF00</color>
+    <color name="green">#00FF00</color>
+    <color name="spring_green">#00FF7F</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="azure">#007FFF</color>
+    <color name="blue">#0000FF</color>
+    <color name="violet">#7F00FF</color>
+    <color name="magenta">#FF00FF</color>
+    <array name="rainbow">
+        <item>@color/bright_pink</item>
+        <item>@color/red</item>
+        <item>@color/orange</item>
+        <item>@color/yellow</item>
+        <item>@color/chartreuse</item>
+        <item>@color/green</item>
+        <item>@color/spring_green</item>
+        <item>@color/cyan</item>
+        <item>@color/azure</item>
+        <item>@color/blue</item>
+        <item>@color/violet</item>
+        <item>@color/magenta</item>
+    </array>
+</resources>
